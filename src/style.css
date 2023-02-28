@@ -108,19 +108,19 @@
 .slide:first-child {
 	left: 0;
 	animation-name: slide-1;
-	background-image: url("./image/1.jpg");
+	background-image: url("./images/1.jpg");
 }
 
 .slide:nth-child(2) {
 	left: 100%;
 	animation-name: slide-2;
-	background-image: url("./image/2.jpg");
+	background-image: url("./images/2.jpg");
 }
 
 .slide:last-child {
 	left: 200%;
 	animation-name: slide-3;
-	background-image: url("./image/3.jpg");
+	background-image: url("./images/3.jpg");
 }
 
 .slide .slide__cover {
